@@ -1,6 +1,6 @@
-#### Development by Thiyagarajan A
-#### Register no: 212222240110
-#### Date:
+### Development by: Ganesh R
+### Register no: 212222240029
+### Date:
 # Ex.No: 03   COMPUTE THE AUTO FUNCTION(ACF)
 
 ### AIM:
