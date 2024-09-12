@@ -36,8 +36,9 @@ plt.show()
 ```
 
 ### OUTPUT:
+![image](https://github.com/user-attachments/assets/4ff72c6c-d7dd-45ac-bc73-f36c36f6e2ac)
+![image](https://github.com/user-attachments/assets/8e516330-b8ac-4a2a-9600-320e6eb72bbc)
 
-![ex3-output](https://github.com/user-attachments/assets/bc0c474c-15d5-4889-8c24-dbc61432f112)
 
 ### RESULT:
 Implementation of auto correlation function in python was successfully completed .
